@@ -1,1 +1,2 @@
 ## COMANDOS
+"git add"
