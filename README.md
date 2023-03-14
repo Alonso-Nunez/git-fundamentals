@@ -7,3 +7,5 @@
 > Es una plataforma que nos permite alojar proyectos utilizando el sistema de control de versiones de Git, se diferencia por alojarse en la nube de forma remota.
 3. ¿Qué es el Staging Area?
 > Es un área dónde se almacena información acerca de lo que estará en el próximo commit, se almacena de formal local en el directorio de Git.
+4. ¿Qué es un commit?
+> Es una captura instantánea de los cambios preparados en ese momento del proyecto, son las diferentes versiones con modificaciones.
