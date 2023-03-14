@@ -9,3 +9,5 @@
 > Es un área dónde se almacena información acerca de lo que estará en el próximo commit, se almacena de formal local en el directorio de Git.
 4. ¿Qué es un commit?
 > Es una captura instantánea de los cambios preparados en ese momento del proyecto, son las diferentes versiones con modificaciones.
+5. ¿Qué comando utilizo para agregar archivos modificados al staging area?
+> El comando es: "git add *nombre del archivo*".
