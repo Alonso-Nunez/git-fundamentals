@@ -10,4 +10,4 @@
 4. ¿Qué es un commit?
 > Es una captura instantánea de los cambios preparados en ese momento del proyecto, son las diferentes versiones con modificaciones.
 5. ¿Qué comando utilizo para agregar archivos modificados al staging area?
-> El comando es: "git add *nombre del archivo*".
+> El comando es: "git add nombre_del_archivo".
