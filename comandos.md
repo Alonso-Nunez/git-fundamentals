@@ -13,7 +13,7 @@
 	* `git branch --list`				Enumera todas las ramas del repositorio.  
 	* `git branch <nombre-de-rama>`		Crea una nueva rama con el nombre puesto.  
 	* `git branch -D <nombre-de-rama>`	Elimina la rama especificada.  
-	* `git branch -m <nombre-de-rama>`	Cambia el nombre de la rama actual a <nombre-de-rama>.  
+	* `git branch -m <nombre-de-rama>`	Cambia el nombre de la rama actual a nombre-de-rama.  
 	* `git branch -a`					Enumera todas las ramas remotas.  
 
 `git checkout` 	Sirve para cambiarse de una rama a otra:  
